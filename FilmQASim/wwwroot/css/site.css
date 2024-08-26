@@ -20,3 +20,10 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+#heatmap {
+  width: 500px;
+  height: 500px;
+  display: block;
+  background-color: #7c6d88ab;
+}
