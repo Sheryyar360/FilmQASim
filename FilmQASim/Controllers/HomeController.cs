@@ -1,13 +1,14 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using FilmQASim.Models; 
+using FilmQASim.Models;
 namespace FilmQASim.Controllers;
 
 public class HomeController : Controller
 {
-    public JsonResult getGafObj(){
+    public IActionResult getGafObj(){
         var obj = new Backend.Backend();
-        return Json(obj.gafChrome);
+        var data = obj.GetBackend;
+        return new JsonResult(data);
     }
 
     public IActionResult Index()
