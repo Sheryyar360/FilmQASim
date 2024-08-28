@@ -29,3 +29,6 @@ C:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\obj\Debug\net8.0\refint\FilmQ
 C:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\obj\Debug\net8.0\FilmQASim.pdb
 C:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\obj\Debug\net8.0\FilmQASim.genruntimeconfig.cache
 C:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\obj\Debug\net8.0\ref\FilmQASim.dll
+c:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\obj\Debug\net8.0\FilmQASim.csproj.AssemblyReference.cache
+c:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\obj\Debug\net8.0\FilmQASim.csproj.Up2Date

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj": {}
+    "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj": {
+    "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
+        "projectUniqueName": "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
         "projectName": "FilmQASim",
-        "projectPath": "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
+        "projectPath": "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
         "packagesPath": "C:\\Users\\Shery\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\obj\\",
+        "outputPath": "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shery\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

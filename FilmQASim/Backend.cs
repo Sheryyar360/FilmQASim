@@ -22,7 +22,7 @@ namespace Backend{
         }
     }
 
-    public int[,] GetBackend{
+    public int[,] getBackend{
         get {
             return gafChrome;
         }
