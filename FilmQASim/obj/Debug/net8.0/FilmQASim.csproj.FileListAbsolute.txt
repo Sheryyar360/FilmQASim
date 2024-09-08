@@ -66,4 +66,3 @@ c:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\bin\Debug\net8.0\Newtonsoft.J
 c:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\obj\Debug\net8.0\FilmQASim.csproj.AssemblyReference.cache
 c:\Users\Shery\Dev\Projects\C#\FilmQASim\FilmQASim\obj\Debug\net8.0\FilmQASim.csproj.Up2Date
 >>>>>>> 77a81d0edfee3f99651eabeae464643e891165c1
-C:\Users\Shery\dev\FilmQASim\FilmQASim\FilmQASim\obj\Debug\net8.0\FilmQASim.csproj.AssemblyReference.cache
