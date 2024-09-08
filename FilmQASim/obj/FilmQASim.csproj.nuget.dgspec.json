@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj": {}
+    "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj": {
+    "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
+        "projectUniqueName": "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
         "projectName": "FilmQASim",
-        "projectPath": "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
+        "projectPath": "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
         "packagesPath": "C:\\Users\\Shery\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\obj\\",
+        "outputPath": "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shery\\AppData\\Roaming\\NuGet\\NuGet.Config"
