@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
+      "projectUniqueName": "C:\\Users\\Shery\\dev\\FilmQASim\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
       "projectName": "FilmQASim",
-      "projectPath": "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
+      "projectPath": "C:\\Users\\Shery\\dev\\FilmQASim\\FilmQASim\\FilmQASim\\FilmQASim.csproj",
       "packagesPath": "C:\\Users\\Shery\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shery\\Dev\\Projects\\C#\\FilmQASim\\FilmQASim\\obj\\",
+      "outputPath": "C:\\Users\\Shery\\dev\\FilmQASim\\FilmQASim\\FilmQASim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shery\\AppData\\Roaming\\NuGet\\NuGet.Config"
