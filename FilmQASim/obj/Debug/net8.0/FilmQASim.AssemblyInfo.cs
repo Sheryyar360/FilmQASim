@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FilmQASim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bef520ce1778348599148eeb11c4002f644ca876")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6924ebc462fe3533f08ae292037a6f5d9803fd1a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FilmQASim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FilmQASim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
